@@ -28,31 +28,39 @@ public final class R {
         public static final int logo=0x7f020004;
     }
     public static final class id {
-        public static final int action_settings=0x7f080011;
-        public static final int birthday_Button=0x7f08000d;
-        public static final int confirm_button=0x7f080007;
-        public static final int email_address_editText=0x7f08000f;
-        public static final int first_name_editText=0x7f080005;
+        public static final int Featured=0x7f08000b;
+        public static final int My_Event=0x7f08000c;
+        public static final int Whos_At_That=0x7f08000d;
+        public static final int action_settings=0x7f080015;
+        public static final int birthday_Button=0x7f080011;
+        public static final int email_address_editText=0x7f080013;
+        public static final int email_editText=0x7f080005;
+        public static final int first_name_editText=0x7f08000e;
         public static final int forgot_password_email_editText=0x7f080001;
         public static final int forgot_password_textView=0x7f08000a;
-        public static final int gender_Button=0x7f08000c;
+        public static final int gender_Button=0x7f080010;
         public static final int imageView1=0x7f080008;
-        public static final int last_name_editText=0x7f08000b;
+        public static final int last_name_editText=0x7f08000f;
         public static final int linearLayout1=0x7f080004;
         public static final int linearLayout2=0x7f080003;
+        public static final int login_button=0x7f080007;
         public static final int logo_imageView=0x7f080000;
         public static final int password_editText=0x7f080006;
-        public static final int process_Button=0x7f080010;
+        public static final int process_Button=0x7f080014;
         public static final int send_forgot_password_Button=0x7f080002;
-        public static final int sign_up_Button=0x7f08000e;
+        public static final int sign_up_Button=0x7f080012;
         public static final int sign_up_textView=0x7f080009;
     }
     public static final class layout {
         public static final int activity_choose_interests=0x7f030000;
-        public static final int activity_forgot_password=0x7f030001;
-        public static final int activity_login_=0x7f030002;
-        public static final int activity_sign_up=0x7f030003;
-        public static final int activity_sign_up_first=0x7f030004;
+        public static final int activity_event=0x7f030001;
+        public static final int activity_featured=0x7f030002;
+        public static final int activity_forgot_password=0x7f030003;
+        public static final int activity_login_=0x7f030004;
+        public static final int activity_main=0x7f030005;
+        public static final int activity_sign_up=0x7f030006;
+        public static final int activity_sign_up_first=0x7f030007;
+        public static final int activity_whos_at_that=0x7f030008;
     }
     public static final class menu {
         public static final int login_=0x7f070000;

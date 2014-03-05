@@ -26,6 +26,10 @@
         <activity android:name="com.example.that.Sign_Up_First_Activity"></activity>
         <activity android:name="com.example.that.Forgot_Password_Activity"></activity>
         <activity android:name="com.example.that.Choose_Interests_Activity"></activity>
+        <activity android:name="Event_Activity"></activity>
+        <activity android:name="Main_Activity"></activity>
+        <activity android:name="Featured_Activity"></activity>
+        <activity android:name="Whos_At_That_Activity"></activity>
     </application>
 
 </manifest>
